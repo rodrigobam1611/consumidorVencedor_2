@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1517520757437" stop="1517520957681" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>teste.ConsumidorVencedor</name>
+    <title>Homologação  - Consumidor Vencedor</title>
+    <test-cases>
+        <test-case start="1517520757458" stop="1517520957647" status="passed">
+            <name>decisoesIntegraMercadosMercearias</name>
+            <title>Consumidor Vencedor RJ - Supermercados e Mercearias</title>
+            <description type="text">Teste de acesso a todas as decisões na íntegra</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="severity" value="normal"/>
+                <label name="host" value="MPRJ-118772"/>
+                <label name="thread" value="7480@MPRJ-118772.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

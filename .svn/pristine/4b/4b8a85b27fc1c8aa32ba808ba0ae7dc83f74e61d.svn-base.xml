@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1517428601403" stop="1517428727137" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>teste.ConsumidorVencedor</name>
+    <title>Homologação  - Consumidor Vencedor</title>
+    <test-cases>
+        <test-case start="1517428601427" stop="1517428727131" status="passed">
+            <name>decisoesIntegraLanchonetesRestaurantes</name>
+            <title>Consumidor Vencedor RJ - Lanchonetes e Restaurantes</title>
+            <description type="text">Teste de acesso a todas as decisões na íntegra</description>
+            <steps>
+                <step start="1517428633211" stop="1517428725918" status="passed">
+                    <name>acessarIntegraDecisoesAlimentacaoBebidas</name>
+                    <title>Acesso às Decisões na Ìntegra - Lanchonetes e Restaurantes</title>
+                    <attachments>
+                        <attachment title="Evidência de sucesso" source="3a131193-90e4-41be-add6-ad30b1c1caf4-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="e63ee24f-c6c7-4a03-9d8b-d27b23eafb06-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="37cbf81d-d193-4043-a084-59239ca0390d-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="a3f3dc0a-6308-4ada-9ff0-58961681188b-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="a2471bae-5564-4738-b0cb-23a9bec0d20b-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="3d90f77a-f768-4f14-ac5b-ec0cc0318011-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="3665d2ca-6bc7-4e53-ac2e-cec43794255e-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="18322219-605b-4639-80cc-8cc6645e3414-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="7df64599-08fc-4eb0-919c-45275919ef5b-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="fb4bbcf9-3c93-4fe2-9f81-a44dc42fb365-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="1d77d449-b400-4ff3-bd17-7387aec470c2-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="c918e7fd-d357-4e5d-b4dd-5fece03a12f3-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="c9795868-a9ca-43eb-be32-a41cb4e87620-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="dddea383-4ed7-4937-8175-d9751b1f1389-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="92b3b621-07b1-4dcd-859d-45ea2c139ca1-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="413228dc-2ba7-4624-8eb2-971f4bbefb57-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="2764587b-b123-4785-b0c6-1645738a52da-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="0fc0d5cc-56e9-43e9-bcdd-52fac4fce0b6-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="6f4ada18-bf1c-4ea8-94fa-bf9134b0cc12-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="9a57cf21-b8e6-42d6-945f-123337bdff56-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="d23aa2c2-97b6-4cba-a8fc-b50e808ad799-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="b666b306-fc6f-4e4b-9a95-3f69fe02c3c5-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="e889e735-b45e-4e73-886a-dbb8ee208bf7-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="6e2b03c0-7ef2-461c-a041-099265def484-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="9aee40ea-c5f8-4a44-a46d-d295d9d4d6a5-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="65d45487-8f23-40b1-ba83-9369e23e265f-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="b6e1b0b9-f2b4-455b-b41e-85d4a9bba405-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="9d47e03c-e2db-4985-9e48-b00bb68876b0-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="64b362b9-50ce-4df6-afed-88b8d7783b53-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="cc26f3d1-fcb5-4541-9691-587c10ca13fc-attachment.png" type="image/png"/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="severity" value="normal"/>
+                <label name="host" value="MPRJ-102353"/>
+                <label name="thread" value="10264@MPRJ-102353.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

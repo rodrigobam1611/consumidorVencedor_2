@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: teste.Test_AllTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 10.225 sec <<< FAILURE! - in teste.Test_AllTests
+decisoesIntegraMercadosMercearias(teste.ConsumidorVencedor)  Time elapsed: 9.98 sec  <<< ERROR!
+java.lang.NullPointerException
+	at teste.ConsumidorVencedor.decisoesIntegraMercadosMercearias(ConsumidorVencedor.java:91)
+

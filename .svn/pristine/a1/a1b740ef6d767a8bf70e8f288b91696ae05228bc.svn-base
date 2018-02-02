@@ -1,0 +1,40 @@
+package decisoes.integra;
+
+import java.io.IOException;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+
+public class TodasDecisoes {
+
+	static WebElement element = null;
+	static WebDriver driver;
+	
+	DecisoesLanchonetesRestaurantes lanchonetesRestaurantes;
+	DecisoesLojasFisicas lojasFisicas;
+	DecisoesSupermercadosMercearias superMercadosMercarias;
+	
+	public TodasDecisoes(WebDriver driver) {
+	
+		lanchonetesRestaurantes = new DecisoesLanchonetesRestaurantes(driver);
+		lojasFisicas = new DecisoesLojasFisicas(driver);
+	}
+	
+	public void decisoesIntegraLanchoneteRestaurantes() throws InterruptedException, IOException{
+		
+		lanchonetesRestaurantes.acessarSecaoLanchonetesRestaurantes();
+		lanchonetesRestaurantes.acessarIntegraDecisoesAlimentacaoBebidas();
+	}
+	
+	public void decisoesIntegraLojasFisicas() throws InterruptedException, IOException{
+		
+		lojasFisicas.acessarSecaoLojasFisicas();
+		lojasFisicas.acessarDecisoesIntegraLojasFisicas();
+	}
+	
+	public void decisoesIntegraMercadosMercearias() throws InterruptedException, IOException{
+		
+		superMercadosMercarias.acessarSecaoSupermercadoMercearias();
+		superMercadosMercarias.acessarDecisoesIntegraLojasFisicas();
+	}
+}

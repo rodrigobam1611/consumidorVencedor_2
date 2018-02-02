@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1517428038924" stop="1517428119799" version="1.5.4" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>teste.ConsumidorVencedor</name>
+    <title>Homologação  - Consumidor Vencedor</title>
+    <test-cases>
+        <test-case start="1517428038954" stop="1517428119792" status="passed">
+            <name>decisoesIntegraLojasFisicas</name>
+            <title>Consumidor Vencedor RJ - Lojas Físicas</title>
+            <description type="text">Teste de acesso a todas as decisões na íntegra</description>
+            <steps>
+                <step start="1517428066032" stop="1517428118534" status="passed">
+                    <name>acessarDecisoesIntegraLojasFisicas</name>
+                    <title>Acesso às Decisões na Ìntegra - Lojas Físicas em geral</title>
+                    <attachments>
+                        <attachment title="Evidência de erro" source="719737cf-daee-4f62-902d-b1aa938d267d-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="a388601a-52d3-43c8-8286-23c27e469ca8-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de sucesso" source="c4285b99-c0dc-4182-a76e-12fbc651f623-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de erro" source="c28a159b-068d-4f90-89a7-25a186226d7c-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="701d04cd-7cb0-4a67-ae92-b3494473b096-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="ce3fe9db-09e6-47ed-8583-a1f2c2f89345-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="a09984f9-41e3-41d6-9eb1-528a69f0ab52-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="21d07e19-b934-49cf-a813-24f30f4c0a1b-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="f48ce96d-798e-46f9-8c53-7c35f30850e9-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="edf25c1f-f4db-4e87-806a-8269ebdf1f1f-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="1e35a8f9-9662-4a01-ba69-3ab14b162b0d-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="c5f18261-d644-4ea0-bbd8-73ca0dc37f3c-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="f5887aab-31ef-49a4-9328-664cc448e28c-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="19162a5c-718d-479c-a834-070e8a7c76b0-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="3f68ce19-e7e2-4b19-8a6a-0f7bec69d95b-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de sucesso" source="0100334b-c199-4972-8811-4e22c11f5a22-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de erro" source="65a19b0c-08a4-4d12-a0e0-e6b6acf94435-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="e594f474-4d18-4690-bad4-49feaf26f580-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de sucesso" source="6f9beab4-0f6f-4c6a-b961-2f6454446f5a-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de erro" source="7c305c9e-ff82-4659-9e21-a3e6760b6138-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="e2ad7ee9-0fa7-45b2-b401-fa828cb1d7ae-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="e347caca-e5ef-420b-978b-ed117587b6d8-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="bd9bb409-609a-4592-95ba-2f231df7d08f-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="d7103c35-9219-48f5-9d62-6869d07852c7-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="c2ef61c5-e45b-4151-8a98-3958f8cfddf2-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de sucesso" source="d026d4dc-96f4-4280-9cb8-72239e57d601-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="8e8eb27a-3d1b-4691-b9f4-2b86f07eac3e-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="113c34a0-7395-4a54-bf05-5f93a636415b-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de erro" source="0bcefefd-53a8-46d7-b29b-7d29f5997e96-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="3720e70c-81c6-42fa-b3fa-366c72aea33b-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de erro" source="f70894b9-5a17-450d-83a8-b8c9b676a98a-attachment.png" type="image/png"/>
+                        <attachment title="URL da página com erro" source="049bff25-a000-41a2-be39-7a3f2ede3eb9-attachment.txt" type="text/plain"/>
+                        <attachment title="Evidência de sucesso" source="f2dba1dc-7816-4ecf-a424-ad50cf058756-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="9dd42943-04b1-4550-9809-f056c191b311-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="670ffae6-619e-4660-979c-d0f2c6ec8504-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="61c2f88c-7645-4083-9472-5df026d2b07c-attachment.png" type="image/png"/>
+                        <attachment title="Evidência de sucesso" source="47c1195c-c28b-40d5-b446-74ba765a1ac6-attachment.png" type="image/png"/>
+                        <attachment title="Total de arquivos inexistentes: " source="f912419c-00ce-4371-ae23-3a009ef584ef-attachment.txt" type="text/plain"/>
+                    </attachments>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="severity" value="normal"/>
+                <label name="host" value="MPRJ-102353"/>
+                <label name="thread" value="10464@MPRJ-102353.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
