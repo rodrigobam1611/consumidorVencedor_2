@@ -65,13 +65,14 @@
   
     <plugins>
     
-<!-- 	    <plugin> -->
-<!-- 	    <groupId>io.qameta.allure</groupId> -->
-<!-- 	    <artifactId>allure-maven</artifactId> -->
-<!-- 	    <configuration> -->
-<!-- 	       <propertiesFilePath>properties/allure.properties</propertiesFilePath> -->
-<!-- 	    </configuration> -->
-<!-- 		</plugin> -->
+	    <plugin>
+		  <groupId>io.qameta.allure</groupId>
+		  <artifactId>allure-maven</artifactId>
+		  <version>2.9</version>
+		  <configuration>
+	        <reportVersion>2.6.0</reportVersion>
+	    </configuration>
+		</plugin>
     
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -118,7 +119,7 @@
         <plugin>
             <groupId>ru.yandex.qatools.allure</groupId>
             <artifactId>allure-maven-plugin</artifactId>
-            <version>2.5</version>
+            <version>2.6</version>
         </plugin>
     </plugins>
   </reporting>
